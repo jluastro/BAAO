@@ -1,23 +1,21 @@
 ---
 permalink: /about/
-title: "About KAPA"
+title: "About BAAO"
+sidebar:
+  nav: "docs"
 ---
 
-KAPA stands for the **K**eck **A**ll-sky **P**recision **A**daptive-optics project launched in
-2018 and aiming for first-light in 2024.
-KAPA will upgrade the existing Keck I adaptive optics (AO) system to add multiple
-laser guide stars (LGS) and laser-tomographic reconstruction to correct for the cone-effect.
-KAPA also adds a faster real-time controller computer, support for IR tip-tilt sensing with
-TRICK, and PSF reconstruction. The gains will include increased sky coverage, improved image quality,
-and better extraction of scientific information from the resulting images and spectra.
+BAAO stands for the Bay Area Adaptive Optics and is an informal group
+that gets together a few times a year to meet and discuss adaptive
+optics theory and practice for astronomy, biology, etc.
 
-KAPA feeds the OSIRIS imager and spectrograph. KAPA has four key science objectives:
+If you would like to be added to the BAAO mailing list, please fill
+out this Google Form.
 
-**FIX**
-* Galactic Center
-* Dark Matter with Strongly Lensed Galaxies
-* Proto-Planets
-* Galaxy Formation and Evolution with Lensed Galaxies
+Organizers:
+Jessica Lu (UC Berkeley)
+Bruce Macintosh (Stanford)
+
 
 
 

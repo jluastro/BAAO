@@ -1,29 +1,10 @@
 main:
-  - title: "Meetings"
-    url: /meetings/
-  - title: "Posts"
-    url: /posts/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
 
 docs:
-  - title: About KAPA
+  - title: BAAO Meetings
     children:
-      - title: "Schedule"
-        url: /pages/schedule.md
-      - title: "Performance"
-        url: /pages/performance.md
-
-  - title: KAPA Science
-    children:
-      - title: "Galactic Center"
-        url: /pages/sci_gc.md
-      - title: "Dark Matter with Lenses"
-        url: /pages/sci_dmlens.md
-      - title: "Proto-planets"
-        url: /pages/sci_planets.md
-      - title: "Lensed Galaxies"
-        url: /pages/sci_exgal.md
+      - title: "2019 August 27"
+        url: /meetings/mtng_2019_08_27/
 
